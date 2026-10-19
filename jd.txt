@@ -1,0 +1,13 @@
+Hands-on experience with React and React Native• Node.js experience would be a bonus jd.txt
+
+About The Role
+
+We're hiring multiple Senior Backend Engineers into our AI team in London.
+
+This team owns Personio's AI experiences end to end. That means the model layer (how we interact with Bedrock, prompt tuning, RAG), the platform underneath it (infrastructure, data flow, the APIs our LLMs are exposed through), and the customer-facing side (how users actually trigger and interact with these features).
+
+Alongside the Personio Assistant, this team owns the agentic architecture that Personio's next generation of AI features will be built on. That includes the Analytics Agent launching this year, agentic experiences in Recruiting, and AI features embedded across Performance & Development and People Analytics, such as follow-up questions inside summaries and smart metrics on the analytics dashboard.
+
+You do not need a machine learning background. Most of this work is building well-designed, reliable backend systems, and it is not fundamentally different from building any other API. What is different is who you build it with and what sits on top: you will work day to day alongside machine learning engineers, and the systems you build are what every agentic experience at Personio will run on.
+
+If you are a strong backend engineer who wants real exposure to applied AI without moving away from engineering, this is a good place to do it.

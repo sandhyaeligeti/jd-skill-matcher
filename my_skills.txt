@@ -1,0 +1,25 @@
+React
+Angular
+TypeScript
+Node.js
+Java
+Spring Boot
+Azure
+PostgreSQL
+Git
+Agile
+AWS
+C++
+C language
+React Native
+Backend development
+API design
+API integration
+Cloud Services
+EC2
+S3
+Microservices
+Cloud Services
+python
+Streamlit
+LLM
